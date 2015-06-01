@@ -32,7 +32,11 @@
 
 ``**text in between**``
 
-***bold***
+***bold & italic***
 
 ``***text in between***``
+
+****bold & italic****
+
+``****text in between****``
 
