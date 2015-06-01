@@ -66,7 +66,8 @@
 * text
 ```
 ##links##
-[link without title](https://github.com/lee-egist/markdown_cheatsheet/edit/master/README.md)   
+[link without title](https://github.com/lee-egist/markdown_cheatsheet/edit/master/README.md)
+
 ``[link without title](https://github.com/lee-egist/markdown_cheatsheet/edit/master/README.md) ``
 
 note the 2 spaces at the end of the line
