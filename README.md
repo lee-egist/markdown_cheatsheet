@@ -32,11 +32,9 @@
 
 ``**text in between**``
 
-***bold & italic***
+***bold & italic*** or ``__text in between__``
 
-``***text in between***``
+``***text in between***`` or ``___text in between___``
 
-__something__
 
-``__text in between__``
 
