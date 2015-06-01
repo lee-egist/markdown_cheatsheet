@@ -25,3 +25,10 @@
 ``#####text in between#####``
 
 *emphasis*
+
+``*text in between*``
+
+**emphasis**
+
+``**text in between**``
+
