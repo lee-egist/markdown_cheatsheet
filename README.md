@@ -100,7 +100,7 @@ note the 2 spaces at the end of the line
 -----
 
 
-[You can use numbers for reference-style link definitions][1]
+[numbers for reference-style link definitions][1]
 
 ``[You can use numbers for reference-style link definitions][1]``  
  **somewhere later in document**  
@@ -109,7 +109,7 @@ note the 2 spaces at the end of the line
 -----
 
 
-Or leave it empty and use the [link text itself]
+[the link text itself]
 
 ``Or leave it empty and use the [link text itself]``  
  **somewhere later in document**  
