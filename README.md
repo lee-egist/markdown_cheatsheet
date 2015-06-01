@@ -25,7 +25,7 @@
 ``#####text in between#####``
 
 ##Styling text##
----
+
 *italic*
 
 ``*text in between*`` or ``_text in between_``
@@ -73,27 +73,27 @@
 ``[link without title](https://github.com/lee-egist/markdown_cheatsheet/edit/master/README.md)``
 
 note the 2 spaces at the end of the line
-
+---
 [link with title](https://github.com/lee-egist/markdown_cheatsheet/edit/master/README.md "Erick's Markdown Cheatsheet")
 
 ``[link with title](https://github.com/lee-egist/markdown_cheatsheet/edit/master/README.md "Erick's Markdown Cheatsheet")``
-
+---
 [reference-style link][Arbitrary case-insensitive reference text]
 
 ``[reference-style link][Arbitrary case-insensitive reference text]``  
  **somewhere later in document**  
 ``[arbitrary case-insensitive reference text]: https://github.com/lee-egist/markdown_cheatsheet/edit/master/README.md``
-
+---
 [relative reference to a repository file](../blob/master/README.md)
 
 ``[relative reference to a repository file](../blob/master/README.md)``
-
+---
 [You can use numbers for reference-style link definitions][1]
 
 ``[You can use numbers for reference-style link definitions][1]``  
  **somewhere later in document**  
 ``[1]: https://github.com/lee-egist/markdown_cheatsheet/edit/master/README.md``
-
+---
 Or leave it empty and use the [link text itself]
 
 ``Or leave it empty and use the [link text itself]``  
