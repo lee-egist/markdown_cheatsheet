@@ -124,5 +124,5 @@ note the 2 spaces at the end of the line
 | header       | for          | table        |
 |--------------|-------------:|-------------:|
 | text         | 12345        | $$$$$$       |
-| no markdown  | ``codeblock``| >blockquote  |
+| *markdown*   | ``codeblock``| >blockquote  |
 | one          | more         | row          |
