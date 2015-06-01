@@ -78,8 +78,8 @@ note the 2 spaces at the end of the line
 
 [reference-style link][Arbitrary case-insensitive reference text]
 
-``[reference-style link][Arbitrary case-insensitive reference text]``
-somewhere later in document
+``[reference-style link][Arbitrary case-insensitive reference text]``  
+somewhere later in document  
 ``[arbitrary case-insensitive reference text]: https://github.com/lee-egist/markdown_cheatsheet/edit/master/README.md``
 
 [relative reference to a repository file](../blob/master/README.md)
