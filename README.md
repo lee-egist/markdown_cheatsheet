@@ -24,6 +24,4 @@
 
 ``#####text in between#####``
 
-#######Heading 6#######
-
-``#######text in between#######``
+*emphasis*
