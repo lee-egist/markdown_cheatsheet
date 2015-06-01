@@ -30,9 +30,10 @@
 
 **bold**
 
-``**text in between**``
+``**text in between**`` or ``__text in between__``
 
-***bold & italic*** or ``__text in between__``
+
+***bold & italic*** 
 
 ``***text in between***`` or ``___text in between___``
 
