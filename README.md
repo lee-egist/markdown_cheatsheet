@@ -88,14 +88,14 @@ somewhere later in document
 
 [You can use numbers for reference-style link definitions][1]
 
-``[You can use numbers for reference-style link definitions][1]``
-somewhere later in document
+``[You can use numbers for reference-style link definitions][1]``  
+somewhere later in document  
 ``[1]: https://github.com/lee-egist/markdown_cheatsheet/edit/master/README.md``
 
 Or leave it empty and use the [link text itself]
 
-``Or leave it empty and use the [link text itself]``
-somewhere later in document
+``Or leave it empty and use the [link text itself]``  
+somewhere later in document  
 ``[link text itself]: https://github.com/lee-egist/markdown_cheatsheet/edit/master/README.md``
 
 [arbitrary case-insensitive reference text]: https://github.com/lee-egist/markdown_cheatsheet/edit/master/README.md
