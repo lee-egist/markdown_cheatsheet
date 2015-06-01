@@ -24,6 +24,8 @@
 
 ``#####text in between#####``
 
+##Styling text##
+---
 *italic*
 
 ``*text in between*`` or ``_text in between_``
