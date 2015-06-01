@@ -67,5 +67,8 @@
 ```
 ##links##
 [link without title](https://github.com/lee-egist/markdown_cheatsheet/edit/master/README.md)   
-``[link without title](https://github.com/lee-egist/markdown_cheatsheet/edit/master/README.md) ``  note the 2 spaces at the end of the line  
+``[link without title](https://github.com/lee-egist/markdown_cheatsheet/edit/master/README.md) ``
+
+note the 2 spaces at the end of the line
+
 [I'm an inline-style link with title](https://github.com/lee-egist/markdown_cheatsheet/edit/master/README.md "Erick's Markdown Cheatsheet")
