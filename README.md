@@ -37,9 +37,9 @@
 
 ``***text in between***`` or ``___text in between___``
 
-~somthing~
+~~somthing~~
 
-``~ text in between ~``
+``~~ text in between ~~``
 
 
 
