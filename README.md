@@ -26,7 +26,7 @@
 
 *italic*
 
-``*text in between*``
+``*text in between*`` or ``_text in between_``
 
 **bold**
 
@@ -36,7 +36,7 @@
 
 ``***text in between***``
 
-_something_
+__something__
 
-``_text in between_``
+``__text in between__``
 
