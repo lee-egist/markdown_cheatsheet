@@ -66,8 +66,8 @@
 * text
 ```
 ##links##
-
-[I'm an inline-style link with title](https://www.google.com , "Google's Homepage")
+[link without title](https://github.com/lee-egist/markdown_cheatsheet/edit/master/README.md)
+[I'm an inline-style link with title](https://github.com/lee-egist/markdown_cheatsheet/edit/master/README.md "Erick's Markdown Cheatsheet")
 
 
 
