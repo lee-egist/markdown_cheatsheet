@@ -37,9 +37,14 @@
 
 ``***text in between***`` or ``___text in between___``
 
-~~somthing~~
+~~strike through~~
 
 ``~~ text in between ~~``
+
+~~~strike through~~~
+
+``~~~ text in between ~~~``
+
 
 
 
