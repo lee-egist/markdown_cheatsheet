@@ -121,7 +121,7 @@ note the 2 spaces at the end of the line
 
 ##Tables##
 
-|header        |for           |table         |
+| header       | for          | table        |
 |--------------|-------------:|-------------:|
 |text          | 12345        |$$$$$$        |
 |###markdown###|``code block``|>blockquote   |
