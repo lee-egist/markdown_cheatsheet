@@ -24,11 +24,15 @@
 
 ``#####text in between#####``
 
-*emphasis*
+*italic*
 
 ``*text in between*``
 
-**emphasis**
+**bold**
 
 ``**text in between**``
+
+***bold***
+
+``***text in between***``
 
