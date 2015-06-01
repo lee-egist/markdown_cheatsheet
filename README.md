@@ -47,6 +47,13 @@
 1. item 1
 2. item 2
 3. item 3
+4. 
+
+```md
+1. text
+2. text
+3. text
+```
 
 ######unordered list ######
 * item 1
